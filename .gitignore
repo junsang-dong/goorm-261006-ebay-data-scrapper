@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+*.log
+
+# 판매자 정보가 들어 있는 원본 Apify 데이터는 저장소에 올리지 않습니다 (SPEC 3.4)
+xref/D06 DATA APIFY*.json
